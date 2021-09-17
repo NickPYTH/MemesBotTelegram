@@ -1,0 +1,3 @@
+opencv-python
+textwrap3
+pyTelegramBotAPI
